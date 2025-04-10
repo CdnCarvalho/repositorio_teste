@@ -8,3 +8,5 @@ print('Alterando no site GitHub')
 
 # Alteração sendo realizada fora do terminal
 print('Alterando pelo vscode')
+
+print('Alterando pelo vscode 2')
